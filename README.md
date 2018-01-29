@@ -3,7 +3,10 @@
 
 # ADC121C_MQ8
 ADC121C_MQ8 is a hydrogen gas detection Sensor.
-This Device is available from www.ncd.io [SKU: ADC121C_MQ8_I2CS]
+This Device is available from www.ncd.io 
+
+[SKU: ADC121C_MQ8_I2CS]
+
 (https://store.ncd.io/product/mq-8-hydrogen-gas-sensor-adc121c-12-bit-adc-i2c-mini-module/)
 This Sample code can be used with Raspberry Pi.
 
